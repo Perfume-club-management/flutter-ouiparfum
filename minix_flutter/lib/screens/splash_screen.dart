@@ -25,10 +25,10 @@ class _SplashScreenState extends State<SplashScreen>{
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset('assets/images/movie.png', width: 120, height: 120, fit: BoxFit.contain,),
+            Image.asset('assets/images/ouiparfum.png', width: 120, height: 120, fit: BoxFit.contain,),
             SizedBox(height: 16,),
             Text(
-              '영화랑',
+              'OuiParfum',
               style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 24),
